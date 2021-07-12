@@ -1,5 +1,4 @@
-testing line 3
-testing line 1
+testing line
 untesting file
 commit test
 123
